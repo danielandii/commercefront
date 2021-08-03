@@ -1,0 +1,66 @@
+export default [
+	{
+		image: 'https://i.postimg.cc/02TS9qfF/baju.png',
+		title: 'Kaos pria lengan pendek NY hitam',
+		prize:'Rp 75.000',
+		star: '4,7',
+		sell: '60',
+	},
+	{
+		image: 'https://i.postimg.cc/26Sb0jkb/baju1.png',
+		title: 'Kaos pria lengan pendek NY hitam',
+		prize:'Rp 75.000',
+		star: '4,7',
+		sell: '60',
+	},
+	{
+		image: 'https://i.postimg.cc/8k3JbVqc/baju2.png',
+		title: 'Kaos pria lengan pendek NY hitam',
+		prize:'Rp 75.000',
+		star: '4,7',
+		sell: '60',
+	},
+	{
+		image: 'https://i.postimg.cc/c1KMWTWK/baju3.png',
+		title: 'Kaos pria lengan pendek NY hitam',
+		prize:'Rp 75.000',
+		star: '4,7',
+		sell: '60',
+	},
+	{
+		image: 'https://i.postimg.cc/PNsqndjM/baju4.png',
+		title: 'Kaos pria lengan pendek NY hitam',
+		prize:'Rp 75.000',
+		star: '4,7',
+		sell: '60',
+	},
+	{
+		image: 'https://i.postimg.cc/g0S8FLBq/baju5.png',
+		title: 'Kaos pria lengan pendek NY hitam',
+		prize:'Rp 75.000',
+		star: '4,7',
+		sell: '60',
+	},
+	{
+	image: 'https://i.postimg.cc/sDdSrrK8/baju6.png',
+	title: 'Kaos pria lengan pendek NY hitam',
+	prize:'Rp 75.000',
+	star: '4,7',
+	sell: '60',
+},
+{
+	image: 'https://i.postimg.cc/vZGV4tJt/baju7.png',
+	title: 'Kaos pria lengan pendek NY hitam',
+	prize:'Rp 75.000',
+	star: '4,7',
+	sell: '60',
+},
+{
+	image: 'https://i.postimg.cc/KYHksSR0/baju8.png',
+	title: 'Kaos pria lengan pendek NY hitam',
+	prize:'Rp 75.000',
+	star: '4,7',
+	sell: '60',
+},
+	
+];
